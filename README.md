@@ -1,2 +1,3 @@
 # ionictask
-Aprendendo a programar em IONIC.
+Aprendendo IONIC.
+
